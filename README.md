@@ -6,5 +6,5 @@ Public Release of the Mod (Everyone can download this and play it)
 The current version of the mod only has 6 stages, 1 hubworld, 4 bosses, and 30 stars. This mod also includes a bunch of custom code. All stages are beatable as of July 6th, 2025.
 Please do not edit any stages in a stage editor and rerelease the mod. I am however okay with you looking inside of the stage editor to see how the stages are set up.
 
-
+Logo made by Benost52 on Youtube and Twitch.
 -Linkmaster2301
