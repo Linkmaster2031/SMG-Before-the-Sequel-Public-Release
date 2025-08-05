@@ -11,6 +11,8 @@ As of August 4th, all stages are beatable and stars are collected! Please enjoy 
 
 And... this isn't over folks, World 2 is in development starting today!
 
+If you want to stream or make videos about the mod, please leave a download link for it! This is greatly appreciated for literally any mod, not just mine!
+
 Logo made by Benost52 on Youtube and Twitch.
 
 -Linkmaster2301
